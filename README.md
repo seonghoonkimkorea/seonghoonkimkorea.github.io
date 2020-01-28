@@ -1,1 +1,2 @@
-# seonghoonkimkorea.github.io
+# paintjs
+Painting Board made with VanillaJS
